@@ -2,7 +2,7 @@
 title: Kazama Kagemakoto
 SEOTitle: KazamaKagemakotoBlog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: kazama.kagemakoto@gmail.com
 description: "風間影真　参上!"
 keyword: ""
 url: "" # your host, for absolute URL
@@ -16,7 +16,9 @@ RSS: false
 weibo_username: 
 zhihu_username: 
 github_username: KazamaKagemakoto
+pixiv_username: 74651520
 twitter_username: 
+bili_username: 438945595
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -59,7 +61,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+# disqus_username: hux
 
 # Netease settings
 netease_comment: false
@@ -69,8 +71,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
@@ -93,4 +95,5 @@ friends:
   [
     { title: "Virtual-BoyFriend", href: "https://github.com/Virtual-BoyFriend" },
     { title: "西魔幽Yuu", href: "https://space.bilibili.com/476725595" },
+    { title: "迷路的牙刷", href: "https://space.bilibili.com/113791" },
   ]
